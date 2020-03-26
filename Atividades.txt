@@ -3,3 +3,9 @@ q2 - Programa que converta metros para centímetros.
 q3 - Programa que peça o raio de um círculo, calcule e mostre sua área. (dificuldade encontrada)
 q4 - Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
 q5 -Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
+q6 - Faça um Programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius.
+q7 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
+q8 -Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+    o produto do dobro do primeiro com metade do segundo .
+    a soma do triplo do primeiro com o terceiro.
+    o terceiro elevado ao cubo.
