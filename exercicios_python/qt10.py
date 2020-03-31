@@ -1,3 +1,5 @@
+#Programa para calcular peso ideal (por sexo)#
+#Vide "Atividades.txt"
 sexo = input("M ou F: ")
 M, F = sexo, sexo
 h = float(input("Digite sua altura: "))

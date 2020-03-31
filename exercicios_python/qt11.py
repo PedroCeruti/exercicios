@@ -1,3 +1,5 @@
+#Calculadora de peso de carga de peixes#
+#Vide "Atividades.txt"
 peso = float(input("Peso de peixes: "))
 excesso = (peso - 50)
 multa = (excesso * 4)

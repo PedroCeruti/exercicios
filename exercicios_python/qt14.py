@@ -1,3 +1,5 @@
+#Programa para calcular latas e galões de tinta#
+#Vide "Atividades.txt"
 m2 = float(input("Digite o tamanho da área a ser pintada: "))
 
 l = m2/6

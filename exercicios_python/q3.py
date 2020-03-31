@@ -1,3 +1,5 @@
+#Programa para calcular a área do circulo#
+#Vide "Atividades.txt"
 r = int(input("Digite o raio: "))
 #pi = (3,14159)
 #area = pi * r
