@@ -1,4 +1,5 @@
-#Vide "Atividades.txt"
+#Altere o programa anterior permitindo ao usuário informar as populações e as taxas de crescimento iniciais. Valide a entrada e permita repetir a operação.
+
 while True: 
   a = int(input("Digite a população do país 'A': "))
   while(a <= 0):

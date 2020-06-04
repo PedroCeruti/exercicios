@@ -1,5 +1,8 @@
-#"Calculadora"#
-#Vide "Atividades.txt"
+'''Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+    o produto do dobro do primeiro com metade do segundo .
+    a soma do triplo do primeiro com o terceiro.
+    o terceiro elevado ao cubo.'''
+
 n1, n2, n3 = input("Digite 3 números: ").split()
 n1, n2 = int(n1), int(n2)
 n3 = float(n3)

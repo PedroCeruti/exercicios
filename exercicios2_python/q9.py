@@ -1,4 +1,5 @@
-#Vide "Atividades.txt"
+# Faça um Programa que leia três números e mostre-os em ordem decrescente.
+
 n1, n2, n3 = input("Digite 3 números: ").split()
 n1, n2, n3 = int(n1), int(n2), int(n3)
 
